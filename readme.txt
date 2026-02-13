@@ -1,5 +1,5 @@
 === Privacy-First Analytics Dashboard ===
-Contributors: yourname
+Contributors: umangapps48
 Tags: analytics, privacy, dashboard, gdpr, stats
 Requires at least: 5.0
 Tested up to: 6.4
